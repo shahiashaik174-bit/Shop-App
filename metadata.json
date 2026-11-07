@@ -1,0 +1,6 @@
+{
+  "name": "Shop Manager",
+  "description": "Hardware and retail store management app with bilingual support, simple and detailed views, inventory tracking, sales point-of-sale, and customer credit ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
